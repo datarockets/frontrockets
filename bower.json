@@ -1,0 +1,27 @@
+{
+  "name": "frontrockets",
+  "version": "0.0.1",
+  "homepage": "https://github.com/datarockets/frontrockets",
+  "authors": [
+    "Eugene Zhlobo <evgen.zhlobo@gmail.com>"
+  ],
+  "description": "Helpers for frontend from datarockets",
+  "main": [
+    "dist/main.css",
+    "dist/main.js"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "git@github.com:jquery/jquery.git"
+  }
+}
